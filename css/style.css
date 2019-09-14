@@ -317,3 +317,8 @@ h3:after{
     padding: 20px 0;
     margin-top: 20px;
 }
+
+.footer .copy p{
+    color: #000;
+    text-align: center;
+}
